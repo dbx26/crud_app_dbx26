@@ -6,7 +6,7 @@ https://crud-dbx26.netlify.app/
 Angular CLI: 18.2.11
 Node: 22.0.0
 
-# Runnig Crud App
+# Running Crud App
 -use the above angular & node version
 -npm install
 -ng serve
